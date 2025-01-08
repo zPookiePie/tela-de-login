@@ -1,8 +1,7 @@
-# React + Vite
+# 🌸 Tela de Login
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma aplicação simples de uma Página de Login desenvolvida com React e configurada usando o Vite, espero que gostem!! 
 
-Currently, two official plugins are available:
+#
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![LoginPage](https://github.com/user-attachments/assets/93720aff-1d2b-41aa-bc7b-4e8d6b3f0daf)
